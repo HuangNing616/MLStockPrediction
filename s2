@@ -1,0 +1,14 @@
+mgmt_ip: 10.0.1.111
+sdn_controller: 10.20.2.2
+vlans:
+  green:
+   id: 10
+  blud:
+   id: 20
+  yellow:
+   id: 30
+ports:
+   1: [ 20 ]
+   2: [ 20 ]
+   3: [ 10, 20 ]
+
