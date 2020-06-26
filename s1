@@ -1,4 +1,4 @@
-mgmt_ip: 10.0.2.2
+mgmt_ip: 10.0.1.111
 sdn_controller: 10.20.2.2
 vlans:
   green:
